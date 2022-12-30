@@ -1,1 +1,1 @@
-# -code
+# 학술제 Project
